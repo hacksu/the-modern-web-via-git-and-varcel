@@ -1,4 +1,4 @@
-# the-modern-web-via-git-and-varcel
+# the-modern-web-via-git-and-vercel
 Fourth installment of the modern web development series. Describes how to deploy our website using git and vercel.
 
 ## Where we left off
