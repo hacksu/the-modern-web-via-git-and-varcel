@@ -46,4 +46,13 @@ Once you've clicked the button to create your repository, you'll be presented wi
 
 After clicking this link, you will be redirected to a page where you can drag and drop the files from the folder we downloaded earlier. Once these files have finished uploading you can click "commit changes" to add them to yur repository. 
 
-We 
+## Next stop, Vercel!
+
+Now that we have a repository on GitHub, we can directly deploy it on the Internet using Vercel. You can head to [Vercel](https://vercel.com/) and sign in with GitHub.
+
+Once we sign into Vercel, we can then go to the `Overview` tab on the homepage, and click the giant `Add New...` button. It should present a dropdown with a 4 buttons. We want to deploy a project, so we will click the `Project` button in this dropdown. From there, we will have to re-authorize our GitHub account so that we can import a repository through it. You can simply click the `Continue with GitHub` button. We're going to navigate to the repository we just created, named `my-website` and click the `Import` button next to it. From there, we just click the `Deploy` button.
+
+BANG! Vercel will begin to build our project and push it to the Internet.
+
+... I can add more here talking about cloud and edge functions and such if that's what needs to happen.
+
