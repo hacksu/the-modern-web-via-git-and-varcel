@@ -44,6 +44,6 @@ For this project, we will be ignoring both of the dropdown boxes.
 
 Once you've clicked the button to create your repository, you'll be presented with a page full of intimidating instructions to set up your repository locally using the command line. If you are a Mac user, you may have done something similar with subversion in the past. In this case, we should be able to upload the files from our folder using the link under Quick Setup which says "uploading an existing file". 
 
-After clicking this link, you will be redirected to a page where you can drag and drop the files from the folder we downloaded earlier. Once these files have finished uploading you can click "commit changes" to add them to yur repository. 
+After clicking this link, you will be redirected to a page where you can drag and drop the files from the folder we downloaded earlier. Once these files have finished uploading you can click "commit changes" to add them to your repository. 
 
-We 
+We are now ready to use Vercel to deploy our site to the web!
